@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "title": "What is The Success Rate of a Root Canal?",
+    "category": "Dental Care",
+    "date": "July 11, 2020",
+    "author": "Admin",
+    "comments": 3,
+    "thumbnail": "https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=600&h=400&fit=crop&q=80",
+    "excerpt": "Malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est.",
+    "body": "<p>Malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.</p><blockquote>Root canals are among the most common dental procedures performed — more than 15 million every year in the United States alone. The success rate exceeds 95% in most cases.</blockquote><p>The success rate for root canal treatment is remarkably high, with studies showing it exceeds 95% in most cases. Modern endodontic techniques and materials have significantly improved outcomes over the past few decades. When performed by a skilled dentist or endodontist, a root canal can save your tooth and eliminate the pain caused by infection.</p><p>Factors that influence success include the extent of infection, the skill of the dentist, and how well you care for your tooth afterward. Post-treatment care, including a dental crown, significantly affects the longevity of the treated tooth. When done properly, a root canal can last a lifetime.</p>",
+    "tags": ["dental", "root canal", "health", "surgery"],
+    "image": "https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=900&h=500&fit=crop&q=80"
+  },
+  {
+    "id": 2,
+    "title": "How to Handle Your Doctor Machine's Elements?",
+    "category": "Medical",
+    "date": "August 1, 2020",
+    "author": "Admin",
+    "comments": 5,
+    "thumbnail": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=600&h=400&fit=crop&q=80",
+    "excerpt": "Modern medical equipment requires specialized training and care. Understanding the fundamental principles behind diagnostic machines is essential for every healthcare professional working in a clinical setting.",
+    "body": "<p>Modern medical equipment requires specialized training and care. Understanding the fundamental principles behind diagnostic machines is essential for every healthcare professional working in a clinical setting.</p><p>From MRI machines to ultrasound devices, proper handling ensures accurate results and extends equipment lifespan. Regular maintenance protocols are crucial for hospital settings where downtime can directly impact patient care.</p><blockquote>Proper training on medical equipment is not just a regulatory requirement — it is a fundamental aspect of patient safety and quality care delivery.</blockquote><p>Healthcare facilities should establish comprehensive training programs that cover both the technical operation of equipment and the safety protocols required to protect both patients and staff. Regular audits and certification renewals ensure that knowledge stays current with evolving technology.</p>",
+    "tags": ["equipment", "medical", "technology", "training"],
+    "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=900&h=500&fit=crop&q=80"
+  },
+  {
+    "id": 3,
+    "title": "Integrative Medicine & Cancer Treatment Advances",
+    "category": "Oncology",
+    "date": "August 1, 2020",
+    "author": "Admin",
+    "comments": 8,
+    "thumbnail": "https://images.unsplash.com/photo-1530026405186-ed1f139313f3?w=600&h=400&fit=crop&q=80",
+    "excerpt": "Integrative medicine combines conventional treatments with evidence-based complementary approaches to provide whole-person cancer care that addresses physical, emotional, and spiritual needs.",
+    "body": "<p>Integrative medicine combines conventional treatments with evidence-based complementary approaches to provide whole-person cancer care. This approach addresses the physical, emotional, and spiritual dimensions of health — recognizing that healing extends far beyond the elimination of disease.</p><p>Recent advances in immunotherapy, targeted therapy, and precision medicine have revolutionized cancer treatment, offering better outcomes with fewer side effects. When combined with integrative therapies such as acupuncture, nutrition counseling, and mind-body practices, patients often experience improved quality of life during treatment.</p><blockquote>The future of cancer care lies in personalized, integrative approaches that treat the whole person — not just the tumor.</blockquote><p>Leading cancer centers around the world are now incorporating integrative oncology departments, recognizing that evidence-based complementary therapies can meaningfully enhance conventional treatment outcomes when used appropriately and under qualified medical supervision.</p>",
+    "tags": ["cancer", "oncology", "integrative", "treatment"],
+    "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f3?w=900&h=500&fit=crop&q=80"
+  },
+  {
+    "id": 4,
+    "title": "Achieving Better Health Care Time Management",
+    "category": "Health",
+    "date": "August 1, 2020",
+    "author": "Admin",
+    "comments": 2,
+    "thumbnail": "https://images.unsplash.com/photo-1551601651-2a8555f1a136?w=600&h=400&fit=crop&q=80",
+    "excerpt": "Effective time management in healthcare settings directly impacts patient outcomes and staff satisfaction. Learn evidence-based strategies to optimize your clinical workflow for better results.",
+    "body": "<p>Effective time management in healthcare settings directly impacts patient outcomes and staff satisfaction. In an environment where every minute can be critical, optimizing workflows and minimizing inefficiencies is not just a productivity goal — it is a patient safety imperative.</p><p>Evidence-based strategies for healthcare time management include structured scheduling, standardized protocols, digital health record optimization, and effective team communication frameworks. These tools help reduce waiting times, minimize administrative burden, and allow clinicians to spend more time with patients.</p><blockquote>Time is the most valuable resource in healthcare. Managing it well is managing care well.</blockquote><p>Studies consistently show that healthcare professionals who employ structured time management strategies report lower burnout rates, higher job satisfaction, and better patient outcomes. Investing in time management training for clinical staff is one of the highest-return improvements any healthcare organization can make.</p>",
+    "tags": ["health", "management", "efficiency", "clinical"],
+    "image": "https://images.unsplash.com/photo-1551601651-2a8555f1a136?w=900&h=500&fit=crop&q=80"
+  },
+  {
+    "id": 5,
+    "title": "Great Health Care for Patients: A Comprehensive Guide",
+    "category": "Patient Care",
+    "date": "August 1, 2020",
+    "author": "Admin",
+    "comments": 6,
+    "thumbnail": "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=600&h=400&fit=crop&q=80",
+    "excerpt": "Providing exceptional patient care goes beyond medical treatment. It encompasses communication, empathy, environment, and comprehensive follow-up care that ensures lasting wellness and satisfaction.",
+    "body": "<p>Providing exceptional patient care goes beyond medical treatment. It encompasses communication, empathy, a healing environment, and comprehensive follow-up care. Patients who feel heard, respected, and genuinely cared for have measurably better health outcomes and higher satisfaction rates.</p><p>The pillars of excellent patient care include clear and compassionate communication, respect for patient autonomy, culturally sensitive care, and proactive follow-up. Healthcare providers who excel in these areas build lasting therapeutic relationships that support long-term health.</p><blockquote>The art of medicine consists of keeping the patient amused while nature heals the disease. — Voltaire. But in modern healthcare, it's about partnering with patients on their healing journey.</blockquote><p>Healthcare organizations that prioritize patient experience consistently outperform peers on clinical quality metrics. By investing in patient experience programs, staff training in communication skills, and environmental improvements, facilities can create a virtuous cycle of improved care and organizational performance.</p>",
+    "tags": ["patient care", "health", "wellness", "communication"],
+    "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=900&h=500&fit=crop&q=80"
+  },
+  {
+    "id": 6,
+    "title": "Understanding Cardiology: Heart Health Fundamentals",
+    "category": "Cardiology",
+    "date": "September 5, 2020",
+    "author": "Admin",
+    "comments": 4,
+    "thumbnail": "https://images.unsplash.com/photo-1504813184591-01572f98c85f?w=600&h=400&fit=crop&q=80",
+    "excerpt": "Cardiovascular disease remains the leading cause of mortality worldwide. Understanding the basics of heart health, risk factors, and prevention strategies is essential for everyone.",
+    "body": "<p>Cardiovascular disease remains the leading cause of mortality worldwide, responsible for approximately 17.9 million deaths annually. Understanding the basics of heart health, risk factors, and prevention strategies is essential for everyone — not just those already diagnosed with heart conditions.</p><p>The major modifiable risk factors for cardiovascular disease include high blood pressure, high cholesterol, smoking, physical inactivity, obesity, and diabetes. Each of these can be significantly reduced through lifestyle modifications, and in some cases, medical treatment when indicated.</p><blockquote>The heart has its reasons of which reason knows nothing. But when it comes to cardiovascular health, science has plenty of excellent reasons to act on prevention.</blockquote><p>Regular cardiovascular screening, including blood pressure monitoring, cholesterol testing, and cardiac risk assessment, is recommended for adults starting at age 20. Early detection and intervention dramatically improve outcomes and quality of life for patients at risk of heart disease.</p>",
+    "tags": ["cardiology", "heart", "health", "prevention"],
+    "image": "https://images.unsplash.com/photo-1504813184591-01572f98c85f?w=900&h=500&fit=crop&q=80"
+  }
+]
